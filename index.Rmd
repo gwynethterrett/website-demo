@@ -1,0 +1,13 @@
+---
+title: "Hello, you"
+---
+This is markdown
+
+  * I can include bullets
+
+## I can include headers
+
+<img src = "img/IMG_7246.JPG">
+<img src = "img/IMG_9288.jpeg">
+
+I can include <i> html</i>
