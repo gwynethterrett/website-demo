@@ -6,8 +6,6 @@ navbar:
       href: index.html
     - text: "Analysis"
       href: analysis.html
-    - text: "Readings"
-      href: analysis.html
   right: 
     - icon: fa-github fa-lg
       href: https://github.com/gwynethterrett
